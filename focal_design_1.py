@@ -21,7 +21,7 @@ class GUICode(QMainWindow):
 
         # setting icon text
         self.setWindowIconText("Focal-Design")
-        loadUi('guiv1.ui',self)
+        loadUi('FD_gui.ui',self)
         # geek list
 
         self.btn_browse.clicked.connect(self.onClick)
