@@ -28,7 +28,7 @@ exe = EXE(
     a.zipfiles,
     a.datas,
     [],
-    name='focal_design_1',
+    name='f_design_1',
     debug=False,
     bootloader_ignore_signals=False,
     strip=False,
