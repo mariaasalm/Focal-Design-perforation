@@ -1,5 +1,5 @@
-Focal-Design-Perforation:
-This project, developed for the printing company "Focal Design" based in France, focuses on the perforation of images. It is part of a Project via Fiverr, entitled "Perforation of Images".
+Futre-Design-Perforation:
+This project, developed for the printing company "Future Designing" based in France, focuses on the perforation of images. It is part of a Project via Fiverr, entitled "Perforation of Images".
 
 Requirements:
 The project is designed and implemented using Python, with a graphical user interface (GUI) created through Qt Designer. To ensure the project runs smoothly on your system, you will need to install specific Python libraries. These libraries are crucial for handling image processing, PDF conversions, and the overall operation of the GUI.
