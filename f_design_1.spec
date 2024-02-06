@@ -5,7 +5,7 @@ block_cipher = None
 
 
 a = Analysis(
-    ['focal_design_1.py'],
+    ['f_design_1.py'],
     pathex=[],
     binaries=[],
     datas=[],
